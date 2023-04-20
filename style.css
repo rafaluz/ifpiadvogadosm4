@@ -1,0 +1,27 @@
+.header-main {
+    background-image:linear-gradient(rgba(1, 20, 29, 0.902), rgba(0, 0, 0, 0.5)), linear-gradient(rgba(3, 110, 146, 0.5), rgba(0, 0, 0, 0.787)), url(img/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+    background-attachment: fixed;
+}
+
+
+#servicos span {
+    font-size: 40px;
+}
+
+#servicos .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+    transition: 0.3s;
+}
+
+#quem-somos {
+    background-color: #0535490b;
+    /* background-color: #5492adc2; */
+    padding-top: 100px;
+    margin-top: -80px;
+}
