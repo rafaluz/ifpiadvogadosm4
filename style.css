@@ -25,3 +25,17 @@
     padding-top: 100px;
     margin-top: -80px;
 }
+
+#nossa-equipe {
+    background-color: #0535490b;
+}
+
+.card-img {
+    filter: brightness(80%);
+}
+
+.card-img:hover {
+    filter: brightness(100%);
+    transition: 0.3s;
+    cursor: pointer;
+}
