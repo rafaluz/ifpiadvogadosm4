@@ -28,6 +28,7 @@
 
 #nossa-equipe {
     background-color: #0535490b;
+    padding-bottom: 100px;
 }
 
 .card-img {
@@ -38,4 +39,14 @@
     filter: brightness(100%);
     transition: 0.3s;
     cursor: pointer;
+}
+
+#fale-conosco {
+    background-color: #051A23;
+    color: #fff;
+}
+
+
+.esquerda {
+    background-color: green;
 }
